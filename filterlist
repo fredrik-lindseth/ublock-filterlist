@@ -1,0 +1,298 @@
+
+!Generell cruft
+
+##.ot-sdk-container
+###onetrust-consent-sdk
+###cookie-banner 
+##.c-cookie-banner
+
+! Amedia
+! Alle disse avisene har antakeligvis samme IDene på alt som blokkeres
+! Akershus Amtstidende
+! Akersposten
+! Arbeidets Rett
+! Aura Avis
+! Aust-Agder Blad
+! Avisa Gaula
+! Avisa Hordaland
+! Avisa Nordhordland
+! Avisa Nordland
+! Avisa Oslo
+! Avisa Valdres
+! Avisen Agder
+! Bergensavisen
+! Bladet Vesterålen
+! Bodø Nu
+! Bondebladet
+! Budstikka
+! Bygdebladet
+! Bygdeposten
+! Dagbladet
+! Dagbladet Bergen
+! Dagbladet Trondheim
+! Dalane Tidende
+! Direktesport
+! Drammens Tidende
+! Eidsvoll Ullensaker Blad
+! Eikerbladet
+! Elbil24
+! Enebakk Avis
+! Fanaposten
+! Finnmark Dagblad
+! Finnmarken
+! Finnmarksposten
+! Firda
+! Firdaposten
+! Fredriksstad Blad
+! Fremover
+! GD Hytte
+! Gjengangeren
+! Gjesdalbuen
+! Glåmdalen
+! Gudbrandsdølen Dagningen
+! Hadeland
+! Halden Arbeiderblad
+! Hamar Arbeiderblad
+! Hammerfestingen
+! Hardanger Folkeblad
+! Haugesunds Avis
+! Helgelendingen
+! Inderøyningen
+! Indre Akershus Blad
+! Jarlsberg Avis
+! Jærbladet
+! KK
+! KRS - Avisen Kristiansand
+! Karmøynytt
+! Kirkenes By
+! Kragerø Blad Vestmar
+! Kvinnheringen
+! Laagendalsposten
+! Lierposten
+! Lofot-Tidende
+! Lofotposten
+! Lokalavisa Trysil Engerdal
+! Lyngdals Avis
+! Meråkerposten
+! MittJessheim
+! MittLillestrøm
+! Moss Avis
+! NT24
+! Namdalsavisa
+! Nationen
+! Nettavisen
+! Nidaros
+! Nord24
+! Norddalen
+! Nordlys
+! Nordre Aker Budstikke
+! Nordstrands Blad
+! Norges Jeger- og Fiskerforbund
+! Norsk Landbruk
+! Oppland Arbeiderblad
+! Oslodebatten
+! Plussmobil
+! Porsgrunns Dagblad
+! Rakkestad Avis
+! Rana Blad
+! Rana No
+! Raumnes
+! Ringerikes Blad
+! Ringsaker Blad
+! Rjukan Arbeiderblad
+! Romerikes Blad
+! Røyken og Hurums Avis
+! Sagene Avis
+! Sande Avis
+! Sandefjords Blad
+! Sandnesposten
+! Sarpsborg Arbeiderblad
+! Se og Hør
+! Senja247
+! Smaalenenes Avis
+! Snåsningen
+! Sogn Avis
+! Solabladet
+! Solungavisa
+! Stangeavisa
+! Steinkjer-Avisa
+! Strandbuen
+! Svelviksposten
+! Sydvesten
+! Sør-Varanger Avis
+! Telemarksavisa
+! Telen
+! Tidens Krav
+! Toten Idag
+! Traktor
+! TromsøBy
+! Trønder-Avisa
+! Trønderdebatt
+! Tvedestrandsposten
+! Tønsbergs Blad
+! Vaksdalposten
+! Varingen
+! Vestby Avis
+! Vestviken 24
+! iAlta
+! iFinnmark
+! iFinnmarkdebatten
+! iHarstad
+! iLevanger
+! iSandnessjøen
+! Ås Avis
+! Åsane Tidende
+! Østlandets Blad
+! Østlands-Posten
+! Østlendingen
+! Øyene
+
+ba.no##.sportspill
+ba.no##subscription-product-marketing
+ba.no##.optimus-background-custom-sport
+ba.no###art-jobCarousel-3
+ba.no##.lp_smartembed_smartembed-sportspill
+ba.no##.lp_realestatecarousel.realestatecarousel
+ba.no###art-tivoliJobCarousel-3
+
+sognavis.no###aid-overlay
+
+dagbladet.no##.show.css-pp-box
+
+! Schibsted 
+! Alle disse avisene har antakeligvis samme IDene på alt som blokkeres
+!Verdens Gang 
+!Aftenposten
+!Bergens Tidende
+!Stavanger Aftenblad
+!Fædrelandsvennen
+!Aftonbladet 
+!Svenska Dagbladet
+
+! E24 frames i andre aviser
+||cmp.e24.no/index.html$subdocument
+
+
+e24.no##.dr-edition-teaser
+e24.no##.teaser__preview
+
+###adPlacement_1
+###adPlacement_2
+###adPlacement_3
+###adPlacement_4
+###adPlacement_5
+###adPlacement_6
+###adPlacement_7
+###adPlacement_8
+###adPlacement_9
+###adPlacement_10
+###adPlacement_11
+###adPlacement_12
+###adPlacement_13
+###cc-comments
+##.advertory-finn-blink-wrapper
+##.jobb
+##.closed.label--paywall
+###football-widget
+###bolig-list-widget
+##.benefits-container
+##.premium-spot
+##.advertory-abo-sponsorstripe-wrapper
+##.advertory-bt-skyscraper-container
+##.advertory-bt-netboard-wrapper
+
+! https://vestnytt.no
+||deals.innocode.no/api/public/v1/widgets/$subdocument
+
+! Finansavisen
+finansavisen.no##.u-pvp.parallax
+finansavisen.no##section.parallax-container
+
+! TU Media 
+! Alle disse avisene har antakeligvis samme IDene på alt som blokkeres
+! Teknisk Ukeblad
+! Digi.no
+
+###adContainer-1
+###adContainer-2
+###adContainer-3
+###adContainer-4
+###adContainer-5
+###adContainer-6
+###adContainer-7
+###adContainer-8
+###adContainer-9
+###adContainer-10
+###adContainer-11
+###adContainer-12
+###adContainer-13
+###adContainer-14
+###adContainer-15
+###adContainer-16
+###adContainer-17
+###adContainer-18
+
+digi.no###related-article-0
+digi.no###related-article-1
+
+! babyverden.no og annen Sandviks
+||apps.sandviks.com/image$image
+
+! Annet
+adlibris.com###didomi-host
+barbershop.no##.cc-top-center-wrapper.cc-window-wrapper
+barbershop.no##.klaviyo-form-version-cid_1.klaviyo-form.needsclick
+beeorganic.no##.consent_small_container
+biltema.no##.cookiedisclaimer__content
+daikin.no##.wt-cli-cookie-bar-container
+dustin.no###cookie-banner 
+dustin.no##.a-fade-in.c-overlay
+dustin.no##.c-bf-signup__business
+dustin.no##.c-cookie-banner
+dustinhome.no##.a-fade-in.c-overlay
+dustinhome.no##.c-cookie-banner.c-box
+elektroimportoren.no###coiOverlay
+elektroimportoren.no##.btn-info.btn-lg.btn
+elektroimportoren.no##.clubmember-btn
+elektroimportoren.no##.fa-comments
+elektroimportoren.no##.itx-plugin-frame
+elkjop.no###coiOverlay
+europris.no###cookie-information-template-wrapper
+nettbank.fanasparebank.no##.alert-warning.am-fade.ng-scope.alert
+nettbank.fanasparebank.no##.alert-info.am-fade.ng-scope.alert
+fotoknudsen.no##.cookie-consent-modal
+foodora.no##.partnership-ads
+foodora.no##.partnership-ads__wrapper
+hageglede.no###CybotCookiebotDialog
+helseoversikt.no##.OPT_IN.BUTTON
+illumsbolighus.no###cookie-information-template-wrapper
+kode24.no##.article-social
+kode24.no###top-notification
+kode24.no###left-menu
+kode24.no###desktop-sidemenu-front > div
+kode24.no###diamond-partners-list-tile
+kode24.no##.social-component
+kode24.no##.commercial-content
+kode24.no###sort-latest-articles
+kode24.no##.commercial
+kode24.no##.patreons
+kode24.no##.marquee-container
+ladekart.elbil.no##.discover-card
+m24.no##.adn-footer
+m24.no##.adn-content
+m24.no##.adn-header
+m24.no##.adn-message
+nrk.no##.nrk-masthead__info-banner
+obsbygg.no###CookieReportsPanel
+plantasjen.no###CybotCookiebotDialogBodyUnderlay
+plantasjen.no###CybotCookiebotDialog
+regjeringen.no###overlay-std
+ren.no##.advertisement
+rorosmeieriet.no##.gdpr-privacy-bar--has-reject
+secure.sbanken.no##.cookie-consent
+sintef.no##.cookie-consent__content
+sykkelbutikken.no##.iqitcookielaw-showed
+teaandcoffee.no###cookie-regel
+tools.no##.cookie-bar-norway
+vigilo.no###cookie-law-info-bar
+volkswagen.no##.ensNotifyBanner
