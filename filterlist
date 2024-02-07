@@ -147,6 +147,7 @@
 ! Østlendingen
 ! Øyene
 
+ba.no##.active
 ba.no##.sportspill
 ba.no##subscription-product-marketing
 ba.no##.optimus-background-custom-sport
@@ -173,8 +174,6 @@ dagbladet.no##.show.css-pp-box
 ||cmp.e24.no/index.html$subdocument
 
 
-e24.no##.dr-edition-teaser
-e24.no##.teaser__preview
 
 ###adPlacement_1
 ###adPlacement_2
@@ -189,7 +188,10 @@ e24.no##.teaser__preview
 ###adPlacement_11
 ###adPlacement_12
 ###adPlacement_13
+
+! Vekk med kommentarfeltet
 ###cc-comments
+
 ##.advertory-finn-blink-wrapper
 ##.jobb
 ##.closed.label--paywall
@@ -200,6 +202,9 @@ e24.no##.teaser__preview
 ##.advertory-abo-sponsorstripe-wrapper
 ##.advertory-bt-skyscraper-container
 ##.advertory-bt-netboard-wrapper
+
+##.dr-edition-teaser
+##.teaser__preview
 
 ! https://vestnytt.no
 ||deals.innocode.no/api/public/v1/widgets/$subdocument
@@ -244,6 +249,7 @@ barbershop.no##.cc-top-center-wrapper.cc-window-wrapper
 barbershop.no##.klaviyo-form-version-cid_1.klaviyo-form.needsclick
 beeorganic.no##.consent_small_container
 biltema.no##.cookiedisclaimer__content
+bikeshop.no##.coi-consent-banner
 daikin.no##.wt-cli-cookie-bar-container
 dustin.no###cookie-banner 
 dustin.no##.a-fade-in.c-overlay
@@ -269,7 +275,6 @@ illumsbolighus.no###cookie-information-template-wrapper
 kode24.no##.article-social
 kode24.no###top-notification
 kode24.no###left-menu
-kode24.no###desktop-sidemenu-front > div
 kode24.no###diamond-partners-list-tile
 kode24.no##.social-component
 kode24.no##.commercial-content
@@ -277,6 +282,9 @@ kode24.no###sort-latest-articles
 kode24.no##.commercial
 kode24.no##.patreons
 kode24.no##.marquee-container
+kode24.no###desktop-sidemenu-front
+kode24.no###hyvor-talk-iframe
+komplett.no##.cookie-consent-overlay
 ladekart.elbil.no##.discover-card
 m24.no##.adn-footer
 m24.no##.adn-content
@@ -284,6 +292,7 @@ m24.no##.adn-header
 m24.no##.adn-message
 nrk.no##.nrk-masthead__info-banner
 obsbygg.no###CookieReportsPanel
+oslonyehoyskole.no###cookie-information-template-wrapper
 plantasjen.no###CybotCookiebotDialogBodyUnderlay
 plantasjen.no###CybotCookiebotDialog
 regjeringen.no###overlay-std
