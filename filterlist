@@ -155,6 +155,8 @@ ba.no###art-jobCarousel-3
 ba.no##.lp_smartembed_smartembed-sportspill
 ba.no##.lp_realestatecarousel.realestatecarousel
 ba.no###art-tivoliJobCarousel-3
+www.ba.no##.premium-overlay
+www.ba.no##.premium-icon
 
 sognavis.no###aid-overlay
 
@@ -191,6 +193,7 @@ dagbladet.no##.show.css-pp-box
 
 ! Vekk med kommentarfeltet
 ###cc-comments
+##.counter-wrapper
 
 ##.advertory-finn-blink-wrapper
 ##.jobb
@@ -202,6 +205,7 @@ dagbladet.no##.show.css-pp-box
 ##.advertory-abo-sponsorstripe-wrapper
 ##.advertory-bt-skyscraper-container
 ##.advertory-bt-netboard-wrapper
+
 
 ##.dr-edition-teaser
 ##.teaser__preview
@@ -290,6 +294,7 @@ m24.no##.adn-footer
 m24.no##.adn-content
 m24.no##.adn-header
 m24.no##.adn-message
+nordnet.no##.cookie-consent
 nrk.no##.nrk-masthead__info-banner
 obsbygg.no###CookieReportsPanel
 oslonyehoyskole.no###cookie-information-template-wrapper
