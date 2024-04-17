@@ -1,10 +1,20 @@
+! alle med ##body,html:style(overflow: auto !important) er for å fjerne noscroll etc
 
 !Generell cruft
 
 ##.ot-sdk-container
 ###onetrust-consent-sdk
+
 ###cookie-banner 
+##.cookie-background
 ##.c-cookie-banner
+##.cookie-container
+##.cookiedisc
+
+##.CybotCookiebotDialogActive
+##.CybotCookiebotDialogContentWrapper
+###CybotCookiebotDialogBodyUnderlay
+###CybotCookiebotDialog
 
 ! Amedia
 ! Alle disse avisene har antakeligvis samme IDene på alt som blokkeres
@@ -155,12 +165,15 @@ ba.no###art-jobCarousel-3
 ba.no##.lp_smartembed_smartembed-sportspill
 ba.no##.lp_realestatecarousel.realestatecarousel
 ba.no###art-tivoliJobCarousel-3
-www.ba.no##.premium-overlay
-www.ba.no##.premium-icon
+ba.no##.premium-overlay
+ba.no##.premium-icon
+ba.no##.premium-wrap
 
 sognavis.no###aid-overlay
 
 dagbladet.no##.show.css-pp-box
+dagbladet.no##.rolling-text-animated
+
 
 ! Schibsted 
 ! Alle disse avisene har antakeligvis samme IDene på alt som blokkeres
@@ -191,6 +204,11 @@ dagbladet.no##.show.css-pp-box
 ###adPlacement_12
 ###adPlacement_13
 
+||cmp.bt.no/index.html$subdocument
+
+||comment.ifragasatt.se$subdocument
+||comment.ifragasatt.se/comment$subdocument
+
 ! Vekk med kommentarfeltet
 ###cc-comments
 ##.counter-wrapper
@@ -205,6 +223,9 @@ dagbladet.no##.show.css-pp-box
 ##.advertory-abo-sponsorstripe-wrapper
 ##.advertory-bt-skyscraper-container
 ##.advertory-bt-netboard-wrapper
+
+##.opinion-banner
+##.regional-feedback
 
 
 ##.dr-edition-teaser
@@ -243,6 +264,8 @@ finansavisen.no##section.parallax-container
 
 digi.no###related-article-0
 digi.no###related-article-1
+digi.no##.nativeAdDatas-center
+digi.no###ifragasatt-544907
 
 ! babyverden.no og annen Sandviks
 ||apps.sandviks.com/image$image
@@ -251,10 +274,14 @@ digi.no###related-article-1
 adlibris.com###didomi-host
 barbershop.no##.cc-top-center-wrapper.cc-window-wrapper
 barbershop.no##.klaviyo-form-version-cid_1.klaviyo-form.needsclick
+beliani.no##.cookies_popup
+beliani.no###cookie_warning
+busy.no###cookie-information-template-wrapper
 beeorganic.no##.consent_small_container
 biltema.no##.cookiedisclaimer__content
 bikeshop.no##.coi-consent-banner
 daikin.no##.wt-cli-cookie-bar-container
+dele.no##.cmplz-cookiebanner
 dustin.no###cookie-banner 
 dustin.no##.a-fade-in.c-overlay
 dustin.no##.c-bf-signup__business
@@ -276,6 +303,8 @@ foodora.no##.partnership-ads__wrapper
 hageglede.no###CybotCookiebotDialog
 helseoversikt.no##.OPT_IN.BUTTON
 illumsbolighus.no###cookie-information-template-wrapper
+jollyroom.no##.discount-info
+jollyroom.no##.js-cookie-consent
 kode24.no##.article-social
 kode24.no###top-notification
 kode24.no###left-menu
@@ -288,12 +317,18 @@ kode24.no##.patreons
 kode24.no##.marquee-container
 kode24.no###desktop-sidemenu-front
 kode24.no###hyvor-talk-iframe
+kode24.no###banner-top-desktop
+kode24.no###sp_message_iframe_985574
+kode24.no##.counter
+||sp.kode24.no/index.html$subdocument
+khrono.no##.adn-message
 komplett.no##.cookie-consent-overlay
 ladekart.elbil.no##.discover-card
 m24.no##.adn-footer
 m24.no##.adn-content
 m24.no##.adn-header
 m24.no##.adn-message
+ngi.no##.coi-consent-banner__base
 nordnet.no##.cookie-consent
 nrk.no##.nrk-masthead__info-banner
 obsbygg.no###CookieReportsPanel
@@ -301,12 +336,18 @@ oslonyehoyskole.no###cookie-information-template-wrapper
 plantasjen.no###CybotCookiebotDialogBodyUnderlay
 plantasjen.no###CybotCookiebotDialog
 regjeringen.no###overlay-std
+regjeringen.no##body,html:style(overflow: auto !important) 
 ren.no##.advertisement
 rorosmeieriet.no##.gdpr-privacy-bar--has-reject
 secure.sbanken.no##.cookie-consent
 sintef.no##.cookie-consent__content
 sykkelbutikken.no##.iqitcookielaw-showed
 teaandcoffee.no###cookie-regel
+telenor.no###__tealiumGDPRcpPrefs
+telenor.no###__tealiumGDPRecModal
+tekna.no##body,html:style(overflow: auto !important)
+tekna.no###coiOverlay
+tekna.no###cookie-information-template-wrapper
 tools.no##.cookie-bar-norway
 vigilo.no###cookie-law-info-bar
 volkswagen.no##.ensNotifyBanner
