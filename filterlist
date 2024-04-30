@@ -161,9 +161,16 @@ ba.no##.active
 ba.no##.sportspill
 ba.no##subscription-product-marketing
 ba.no##.optimus-background-custom-sport
-ba.no###art-jobCarousel-3
 ba.no##.lp_smartembed_smartembed-sportspill
 ba.no##.lp_realestatecarousel.realestatecarousel
+ba.no###art-jobCarousel-1
+ba.no###art-jobCarousel-2
+ba.no###art-jobCarousel-3
+www.ba.no###art-tivoliRealEstateCarousel-1
+www.ba.no###art-tivoliRealEstateCarousel-2
+www.ba.no###art-tivoliRealEstateCarousel-3
+ba.no###art-tivoliJobCarousel-1
+ba.no###art-tivoliJobCarousel-2
 ba.no###art-tivoliJobCarousel-3
 ba.no##.premium-overlay
 ba.no##.premium-icon
@@ -208,6 +215,9 @@ dagbladet.no##.rolling-text-animated
 
 ||comment.ifragasatt.se$subdocument
 ||comment.ifragasatt.se/comment$subdocument
+
+! Vekk med fotball
+bt.no##.article:has(a[href*="/sport/ballspark"])
 
 ! Vekk med kommentarfeltet
 ###cc-comments
@@ -270,12 +280,31 @@ digi.no###ifragasatt-544907
 ! babyverden.no og annen Sandviks
 ||apps.sandviks.com/image$image
 
+! Kode24 har så mye støy at de får egen
+kode24.no##.article-social
+kode24.no###top-notification
+kode24.no###left-menu
+kode24.no###diamond-partners-list-tile
+kode24.no##.social-component
+kode24.no##.commercial-content
+kode24.no###sort-latest-articles
+kode24.no##.commercial
+kode24.no##.patreons
+kode24.no##.marquee-container
+kode24.no###desktop-sidemenu-front
+kode24.no###hyvor-talk-iframe
+kode24.no###banner-top-desktop
+kode24.no###sp_message_iframe_985574
+kode24.no##.counter
+||sp.kode24.no/index.html$subdocument
+
 ! Annet
 adlibris.com###didomi-host
 barbershop.no##.cc-top-center-wrapper.cc-window-wrapper
 barbershop.no##.klaviyo-form-version-cid_1.klaviyo-form.needsclick
 beliani.no##.cookies_popup
 beliani.no###cookie_warning
+bergenkino.no##.cookies-prompt__banner
 busy.no###cookie-information-template-wrapper
 beeorganic.no##.consent_small_container
 biltema.no##.cookiedisclaimer__content
@@ -305,24 +334,10 @@ helseoversikt.no##.OPT_IN.BUTTON
 illumsbolighus.no###cookie-information-template-wrapper
 jollyroom.no##.discount-info
 jollyroom.no##.js-cookie-consent
-kode24.no##.article-social
-kode24.no###top-notification
-kode24.no###left-menu
-kode24.no###diamond-partners-list-tile
-kode24.no##.social-component
-kode24.no##.commercial-content
-kode24.no###sort-latest-articles
-kode24.no##.commercial
-kode24.no##.patreons
-kode24.no##.marquee-container
-kode24.no###desktop-sidemenu-front
-kode24.no###hyvor-talk-iframe
-kode24.no###banner-top-desktop
-kode24.no###sp_message_iframe_985574
-kode24.no##.counter
-||sp.kode24.no/index.html$subdocument
+
 khrono.no##.adn-message
 komplett.no##.cookie-consent-overlay
+komplett.no##.newsletter-border
 ladekart.elbil.no##.discover-card
 m24.no##.adn-footer
 m24.no##.adn-content
@@ -335,12 +350,16 @@ obsbygg.no###CookieReportsPanel
 oslonyehoyskole.no###cookie-information-template-wrapper
 plantasjen.no###CybotCookiebotDialogBodyUnderlay
 plantasjen.no###CybotCookiebotDialog
+||cmp.prisjakt.no/index.html$subdocument
+||cmp.prisjakt.no/index.html?hasCsp=true&message_id=1108363&consentUUID=null&preload_message=true&version=v1&consentLanguage=no$subdocument
 regjeringen.no###overlay-std
 regjeringen.no##body,html:style(overflow: auto !important) 
 ren.no##.advertisement
 rorosmeieriet.no##.gdpr-privacy-bar--has-reject
 secure.sbanken.no##.cookie-consent
 sintef.no##.cookie-consent__content
+sparebank1.no##.optin
+sparebank1.no##.optin__wrapper
 sykkelbutikken.no##.iqitcookielaw-showed
 teaandcoffee.no###cookie-regel
 telenor.no###__tealiumGDPRcpPrefs
@@ -349,5 +368,7 @@ tekna.no##body,html:style(overflow: auto !important)
 tekna.no###coiOverlay
 tekna.no###cookie-information-template-wrapper
 tools.no##.cookie-bar-norway
+universitetsavisa.no##.adn-overlay
+universitetsavisa.no##.adn-message.adn-window
 vigilo.no###cookie-law-info-bar
 volkswagen.no##.ensNotifyBanner
