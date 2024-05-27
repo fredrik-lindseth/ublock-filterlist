@@ -176,6 +176,13 @@ ba.no##.premium-overlay
 ba.no##.premium-icon
 ba.no##.premium-wrap
 
+! Vekk med fotball
+ba.no##a[href*="direktesport.no"]
+ba.no##a[href^="/ba-borsen"]
+
+! fotballpodkasten til BA
+ba.no##.lp_smartembed_smartembed-spotify
+
 sognavis.no###aid-overlay
 
 dagbladet.no##.show.css-pp-box
@@ -218,6 +225,9 @@ dagbladet.no##.rolling-text-animated
 
 ! Vekk med fotball
 bt.no##.article:has(a[href*="/sport/ballspark"])
+
+bt.no###buy-abo-stripe-abo
+bt.no###react-root-reels-bt-1
 
 ! Vekk med kommentarfeltet
 ###cc-comments
@@ -300,15 +310,22 @@ kode24.no##.counter
 
 ! Annet
 adlibris.com###didomi-host
+
 barbershop.no##.cc-top-center-wrapper.cc-window-wrapper
 barbershop.no##.klaviyo-form-version-cid_1.klaviyo-form.needsclick
+barnashus.no###coiOverlay
+barnashus.no##body,html:style(overflow: auto !important)
 beliani.no##.cookies_popup
 beliani.no###cookie_warning
 bergenkino.no##.cookies-prompt__banner
 busy.no###cookie-information-template-wrapper
+busy.no##body,html:style(overflow: auto !important)
 beeorganic.no##.consent_small_container
 biltema.no##.cookiedisclaimer__content
 bikeshop.no##.coi-consent-banner
+
+cakeiteasy.no##body,html:style(overflow: auto !important)
+
 daikin.no##.wt-cli-cookie-bar-container
 dele.no##.cmplz-cookiebanner
 dustin.no###cookie-banner 
@@ -317,6 +334,7 @@ dustin.no##.c-bf-signup__business
 dustin.no##.c-cookie-banner
 dustinhome.no##.a-fade-in.c-overlay
 dustinhome.no##.c-cookie-banner.c-box
+
 elektroimportoren.no###coiOverlay
 elektroimportoren.no##.btn-info.btn-lg.btn
 elektroimportoren.no##.clubmember-btn
@@ -324,43 +342,68 @@ elektroimportoren.no##.fa-comments
 elektroimportoren.no##.itx-plugin-frame
 elkjop.no###coiOverlay
 europris.no###cookie-information-template-wrapper
+
 nettbank.fanasparebank.no##.alert-warning.am-fade.ng-scope.alert
 nettbank.fanasparebank.no##.alert-info.am-fade.ng-scope.alert
+
 fotoknudsen.no##.cookie-consent-modal
 foodora.no##.partnership-ads
 foodora.no##.partnership-ads__wrapper
+
 hageglede.no###CybotCookiebotDialog
+hageland.no###coiOverlay
 helseoversikt.no##.OPT_IN.BUTTON
+
+iform.nu###didomi-host
 illumsbolighus.no###cookie-information-template-wrapper
+
 jollyroom.no##.discount-info
 jollyroom.no##.js-cookie-consent
 
 khrono.no##.adn-message
 komplett.no##.cookie-consent-overlay
 komplett.no##.newsletter-border
+komplett.no###genesys-messenger
+
 ladekart.elbil.no##.discover-card
+
 m24.no##.adn-footer
 m24.no##.adn-content
 m24.no##.adn-header
 m24.no##.adn-message
+
 ngi.no##.coi-consent-banner__base
 nordnet.no##.cookie-consent
+norskkalender.no###didomi-host
+norskkalender.no##body,html:style(overflow: auto !important)
 nrk.no##.nrk-masthead__info-banner
+
 obsbygg.no###CookieReportsPanel
 oslonyehoyskole.no###cookie-information-template-wrapper
+
 plantasjen.no###CybotCookiebotDialogBodyUnderlay
 plantasjen.no###CybotCookiebotDialog
+plantasjen.no##body,html:style(overflow: auto !important)
 ||cmp.prisjakt.no/index.html$subdocument
 ||cmp.prisjakt.no/index.html?hasCsp=true&message_id=1108363&consentUUID=null&preload_message=true&version=v1&consentLanguage=no$subdocument
+proshop.no##.StarWarsDay
+proshop.no##.site-top-banner
+proshop.no##.visible-lg.site-background-cta
+proshop.no###body,html:style(overflow: auto !important)
+proshop.no###coiOverlay
+
 regjeringen.no###overlay-std
 regjeringen.no##body,html:style(overflow: auto !important) 
 ren.no##.advertisement
+reindyrka.no##.eu-cookie-bar-notification
 rorosmeieriet.no##.gdpr-privacy-bar--has-reject
+
 secure.sbanken.no##.cookie-consent
 sintef.no##.cookie-consent__content
 sparebank1.no##.optin
 sparebank1.no##.optin__wrapper
 sykkelbutikken.no##.iqitcookielaw-showed
+
 teaandcoffee.no###cookie-regel
 telenor.no###__tealiumGDPRcpPrefs
 telenor.no###__tealiumGDPRecModal
@@ -368,7 +411,14 @@ tekna.no##body,html:style(overflow: auto !important)
 tekna.no###coiOverlay
 tekna.no###cookie-information-template-wrapper
 tools.no##.cookie-bar-norway
+
 universitetsavisa.no##.adn-overlay
 universitetsavisa.no##.adn-message.adn-window
+
 vigilo.no###cookie-law-info-bar
 volkswagen.no##.ensNotifyBanner
+
+waagen.no##.seers-cmp-banner-bar
+
+xxl.no###coiOverlay
+xxl.no##body,html:style(overflow: auto !important)
