@@ -306,28 +306,84 @@ kode24.no###hyvor-talk-iframe
 kode24.no###banner-top-desktop
 kode24.no###sp_message_iframe_985574
 kode24.no##.counter
+kode24.no###hyvor-talk-view
 ||sp.kode24.no/index.html$subdocument
 
-! Annet
+! Annet - alphabetical by domain
+
+! adlibris.com
 adlibris.com###didomi-host
 
+! arven.no
+arven.no##.index-section--hidden.shopify-section
+arven.no##.recommendation-modal__backdrop
+arven.no##.recommendation-modal__container
+arven.no###ShopifyChat
+
+! bakerenogkokken.no
+bakerenogkokken.no###cookie-information-template-wrapper
+bakerenogkokken.no##body,html:style(overflow: auto !important)
+
+! barbershop.no
 barbershop.no##.cc-top-center-wrapper.cc-window-wrapper
 barbershop.no##.klaviyo-form-version-cid_1.klaviyo-form.needsclick
+
+! barnashus.no
 barnashus.no###coiOverlay
 barnashus.no##body,html:style(overflow: auto !important)
+
+! beeorganic.no
+beeorganic.no##.consent_small_container
+
+! beliani.no
 beliani.no##.cookies_popup
 beliani.no###cookie_warning
+
+! bergenkino.no
 bergenkino.no##.cookies-prompt__banner
-busy.no###cookie-information-template-wrapper
-busy.no##body,html:style(overflow: auto !important)
-beeorganic.no##.consent_small_container
-biltema.no##.cookiedisclaimer__content
+
+! bikeshop.no
 bikeshop.no##.coi-consent-banner
 
+! biltema.no
+biltema.no##.cookiedisclaimer__content
+
+! busy.no
+busy.no###cookie-information-template-wrapper
+busy.no##body,html:style(overflow: auto !important)
+
+! byggmax.no
+byggmax.no##.amgdprcookie-bar-template
+byggmax.no##.amgdprcookie-main-wrapper
+byggmax.no##.amdgpr-custom-overlay
+byggmax.no##.gdpr-cookie-settings-modal
+
+! cakeiteasy.no
 cakeiteasy.no##body,html:style(overflow: auto !important)
 
+! computersalg.no
+computersalg.no###coiOverlay
+computersalg.no##.solvemate-show
+computersalg.no##body,html:style(overflow: auto !important)
+
+! dagensmedisin.no
+dagensmedisin.no##.mm-popup-animate.mm-popup-wrapper
+dagensmedisin.no##.topBarMenu.navigation
+dagensmedisin.no##body,html:style(overflow: auto !important)
+
+! daikin.no
 daikin.no##.wt-cli-cookie-bar-container
+
+! danskebank.no
+danskebank.no##.cookie-consent-banner-modal
+
+! dele.no
 dele.no##.cmplz-cookiebanner
+
+! dsb.no
+dsb.no###cookie-information-template-wrapper
+
+! dustin.no / dustinhome.no
 dustin.no###cookie-banner 
 dustin.no##.a-fade-in.c-overlay
 dustin.no##.c-bf-signup__business
@@ -335,90 +391,301 @@ dustin.no##.c-cookie-banner
 dustinhome.no##.a-fade-in.c-overlay
 dustinhome.no##.c-cookie-banner.c-box
 
+! elektroimportoren.no
 elektroimportoren.no###coiOverlay
 elektroimportoren.no##.btn-info.btn-lg.btn
 elektroimportoren.no##.clubmember-btn
 elektroimportoren.no##.fa-comments
 elektroimportoren.no##.itx-plugin-frame
+elektroimportoren.no##body,html:style(overflow: auto !important)
+
+! elfadistrelec.no
+elfadistrelec.no##.cookie-modal
+elfadistrelec.no##.ensNotifyBanner
+
+! elkjop.no
 elkjop.no###coiOverlay
+elkjop.no##body,html:style(overflow: auto !important)
+
+! energiteknikk.net
+energiteknikk.net##.pum-active.click_open.auto_open.pum-overlay-disabled.popmake-overlay.pum-theme-default-theme.pum-theme-42333.pum-overlay.pum
+
+! enterprise.telenor.no
+enterprise.telenor.no##body,html:style(overflow: auto !important)
+
+! europris.no
 europris.no###cookie-information-template-wrapper
+europris.no##body,html:style(overflow: auto !important)
 
-nettbank.fanasparebank.no##.alert-warning.am-fade.ng-scope.alert
-nettbank.fanasparebank.no##.alert-info.am-fade.ng-scope.alert
-
-fotoknudsen.no##.cookie-consent-modal
+! foodora.no
 foodora.no##.partnership-ads
 foodora.no##.partnership-ads__wrapper
 
+! forsvaretsforum.no
+forsvaretsforum.no##.adn-editButton
+forsvaretsforum.no##.adn-overlay
+forsvaretsforum.no##.adn-window
+forsvaretsforum.no##.mm-popup-wrapper
+forsvaretsforum.no##body,html:style(overflow: auto !important)
+
+! fotoknudsen.no
+fotoknudsen.no##.cookie-consent-modal
+
+! freak.no
+freak.no###topcomwrapper
+freak.no##.cc-window
+
+! frukvist.no
+frukvist.no##.cky-btn-revisit-wrapper
+frukvist.no##.cky-overlay
+frukvist.no##.cky-preference-center
+
+! gamer.no
+gamer.no##.popup-card--banner.popup-card
+
+! getfood.no
+getfood.no##.v-bottom-sheet.v-dialog--active.v-dialog
+getfood.no##.v-overlay__scrim
+getfood.no##body,html:style(overflow: auto !important)
+
+! hageglede.no
 hageglede.no###CybotCookiebotDialog
+
+! hageland.no
 hageland.no###coiOverlay
+hageland.no##body,html:style(overflow: auto !important)
+
+! helseoversikt.no
 helseoversikt.no##.OPT_IN.BUTTON
 
-iform.nu###didomi-host
-illumsbolighus.no###cookie-information-template-wrapper
+! hoyer.no
+hoyer.no##.cookie-popup
 
+! houseofyarn.no
+houseofyarn.no###coiOverlay
+
+! hyttetorget.no
+hyttetorget.no###coiOverlay
+hyttetorget.no##body,html:style(overflow: auto !important)
+
+! iform.nu
+iform.nu###didomi-host
+
+! illumsbolighus.no
+illumsbolighus.no###cookie-information-template-wrapper
+illumsbolighus.no##body,html:style(overflow: auto !important)
+
+! jollyroom.no
 jollyroom.no##.discount-info
 jollyroom.no##.js-cookie-consent
 
+! kaffa.no
+kaffa.no###NewsletterPopup-newsletter-popup
+kaffa.no###shopify-chat
+kaffa.no##.cc-popup-wrapper
+kaffa.no##body,html:style(overflow: auto !important)
+
+! kaffebrenneriet.no
+kaffebrenneriet.no###dwCookieBanner
+
+! kaffebox.no
+kaffebox.no###cookie-law-info-bar
+
+! kicks.no
+kicks.no##.cmpBoxWelcomeOI
+
+! khrono.no
 khrono.no##.adn-message
+
+! klubben.no
+klubben.no###cookie-information-template-wrapper
+klubben.no##body,html:style(overflow: auto !important)
+
+! komplett.no
 komplett.no##.cookie-consent-overlay
 komplett.no##.newsletter-border
 komplett.no###genesys-messenger
+komplett.no###komplett_survey
 
+! ladekart.elbil.no
 ladekart.elbil.no##.discover-card
 
+! lividjeans.no
+lividjeans.no###cb-cookie_consent
+
+! lydogbilde.no
+lydogbilde.no##.popup-overlay
+
+! m24.no
 m24.no##.adn-footer
 m24.no##.adn-content
 m24.no##.adn-header
 m24.no##.adn-message
 
+! maxbo.no
+maxbo.no###coiOverlay
+maxbo.no##body,html:style(overflow: auto !important)
+
+! mimmis.no
+mimmis.no##.cky-consent-bar
+mimmis.no##.lipscore-view-m
+mimmis.no##.lipscore-view-s
+mimmis.no##.sleeknote-anchor
+mimmis.no##.sub-header-wrapper
+mimmis.no##.sub-header-wrapper2
+mimmis.no##div.home-page-center-banner klarna-placement
+mimmis.no##.needsclick
+
+! mittanbud.no
+mittanbud.no##.ReactModal__Overlay--after-open.ReactModal__Overlay
+
+! nettavisen.no
+nettavisen.no##.dredition-embed
+
+! nettbank.fanasparebank.no
+nettbank.fanasparebank.no##.alert-warning.am-fade.ng-scope.alert
+nettbank.fanasparebank.no##.alert-info.am-fade.ng-scope.alert
+
+! ngi.no
 ngi.no##.coi-consent-banner__base
+
+! nordealiv.no
+nordealiv.no###CookieReportsBanner
+nordealiv.no###CookieReportsOverlay
+
+! nordicnest.no
+nordicnest.no###coiOverlay
+
+! nordnet.no
 nordnet.no##.cookie-consent
+
+! norskkalender.no
 norskkalender.no###didomi-host
 norskkalender.no##body,html:style(overflow: auto !important)
+
+! norske-dubber.fandom.com
+norske-dubber.fandom.com##._1MLS_xjiUjam_u2qmURY4i
+
+! nrk.no
 nrk.no##.nrk-masthead__info-banner
 
+! obsbygg.no
 obsbygg.no###CookieReportsPanel
+
+! okoland.no
+okoland.no###am-cookie-bar
+
+! oslonyehoyskole.no
 oslonyehoyskole.no###cookie-information-template-wrapper
 
+! plantasjen.no
 plantasjen.no###CybotCookiebotDialogBodyUnderlay
 plantasjen.no###CybotCookiebotDialog
 plantasjen.no##body,html:style(overflow: auto !important)
+
+! prisjakt.no
 ||cmp.prisjakt.no/index.html$subdocument
 ||cmp.prisjakt.no/index.html?hasCsp=true&message_id=1108363&consentUUID=null&preload_message=true&version=v1&consentLanguage=no$subdocument
+
+! proshop.no
 proshop.no##.StarWarsDay
 proshop.no##.site-top-banner
 proshop.no##.visible-lg.site-background-cta
 proshop.no###body,html:style(overflow: auto !important)
 proshop.no###coiOverlay
 
+! raumacollection.no
+raumacollection.no###elc-cookie-consent
+
+! regjeringen.no
 regjeringen.no###overlay-std
-regjeringen.no##body,html:style(overflow: auto !important) 
-ren.no##.advertisement
+regjeringen.no##body,html:style(overflow: auto !important)
+
+! reindyrka.no
 reindyrka.no##.eu-cookie-bar-notification
+
+! ren.no
+ren.no##.advertisement
+
+! rolfsenshop.no
+rolfsenshop.no##.isense-cc-window
+
+! rorosmeieriet.no
 rorosmeieriet.no##.gdpr-privacy-bar--has-reject
 
+! sandvikplay.no
+sandvikplay.no##.mm-popup-animate.mm-popup-wrapper
+
+! secure.sbanken.no
 secure.sbanken.no##.cookie-consent
+
+! sikkerhverdag.no
+sikkerhverdag.no##.coi-consent-banner__base
+
+! sintef.no
 sintef.no##.cookie-consent__content
+
+! souk.no
+souk.no##.gdpr-cookie-banner
+
+! sparebank1.no
 sparebank1.no##.optin
 sparebank1.no##.optin__wrapper
+
+! spond.com
+spond.com###cc-main
+
+! stokke.com
+stokke.com##.gis-cta-reset
+
+! superkul.no
+superkul.no##.cookiealert
+
+! svom.no
+svom.no##.cky-consent-bar
+
+! sykkelbutikken.no
 sykkelbutikken.no##.iqitcookielaw-showed
 
+! teaandcoffee.no
 teaandcoffee.no###cookie-regel
-telenor.no###__tealiumGDPRcpPrefs
-telenor.no###__tealiumGDPRecModal
+
+! tekna.no
 tekna.no##body,html:style(overflow: auto !important)
 tekna.no###coiOverlay
 tekna.no###cookie-information-template-wrapper
+
+! telenor.no
+telenor.no###__tealiumGDPRcpPrefs
+telenor.no###__tealiumGDPRecModal
+
+! tools.no
 tools.no##.cookie-bar-norway
 
+! tv2.no
+tv2.no##video-link
+
+! universitetsavisa.no
 universitetsavisa.no##.adn-overlay
 universitetsavisa.no##.adn-message.adn-window
 
+! vg.no
+vg.no##.type-icon-wrapper
+vg.no##.vgtv-autoplay
+
+! vigilo.no
 vigilo.no###cookie-law-info-bar
+
+! volkswagen.no
 volkswagen.no##.ensNotifyBanner
 
+! waagen.no
 waagen.no##.seers-cmp-banner-bar
 
+! xl-bygg.no
+xl-bygg.no###coiOverlay
+xl-bygg.no##body,html:style(overflow: auto !important)
+
+! xxl.no
 xxl.no###coiOverlay
 xxl.no##body,html:style(overflow: auto !important)
